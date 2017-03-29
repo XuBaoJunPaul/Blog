@@ -1,7 +1,7 @@
 # Blog
 一、排序
 ##   1、插入排序
--   static void InsertSort(int[] dataArray)
+   static void InsertSort(int[] dataArray)
 -   {
 -    for(int i=0,i<dataArray.Length,i++)
 -      {
@@ -25,4 +25,4 @@
 -            dataArray[0] = iValue;
 -          }
 -      }
--   }
+   }
